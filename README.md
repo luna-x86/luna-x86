@@ -20,4 +20,4 @@ Just an ordinary guy interested in Software Engineering and Cybersecurity.
 
 <br>
 
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fx6j5r72yp6ge1.gif" />
+<img src="https://i.redd.it/x6j5r72yp6ge1.gif" />
