@@ -18,3 +18,6 @@ Just an ordinary guy interested in Software Engineering and Cybersecurity.
 <br>
 [![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/x86luna.png)](https://tryhackme.com/p/x86luna)
 
+<br>
+
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fx6j5r72yp6ge1.gif" />
