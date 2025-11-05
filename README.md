@@ -3,7 +3,7 @@
 Just an ordinary guy interested in Software Engineering and Cybersecurity.
 
 <div>
-  <img src="https://static.myfigurecollection.net/upload/pictures/2024/07/01/4051644.gif" width="100" />
+  <img src="https://static.myfigurecollection.net/upload/pictures/2024/07/01/4051644.gif" width="100" />          
 
   <a align="top" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,git,python,typescript,javascript,nodejs,express,nextjs" />
