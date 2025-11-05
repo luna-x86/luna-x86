@@ -10,8 +10,7 @@ Just an ordinary guy interested in Software Engineering and Cybersecurity.
 
 <br>
 
-<div>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1232971899458289668)](https://discord.com/users/1232971899458289668)
-  [![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/x86luna.png)](https://tryhackme.com/p/x86luna)
-  <img src="https://static.myfigurecollection.net/upload/pictures/2024/07/01/4051644.gif" />
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1232971899458289668)](https://discord.com/users/1232971899458289668)
+<img src="https://static.myfigurecollection.net/upload/pictures/2024/07/01/4051644.gif" />
+[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/x86luna.png)](https://tryhackme.com/p/x86luna)
+
