@@ -8,4 +8,4 @@ Just an ordinary guy interested in Software Engineering and Cybersecurity.
   </a>
 </div>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2844791" style='border:none;'></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2844791"></iframe>
