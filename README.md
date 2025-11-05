@@ -1,6 +1,8 @@
 # <div align="center"><img src="https://media.tenor.com/0-M-_QQY4eQAAAAj/pixel-heart.gif" width="35" /> Lunalize (P)</div>
 
-Just an ordinary guy interested in Software Engineering and Cybersecurity.
+<p align="center">
+  Just an ordinary guy interested in Software Engineering and Cybersecurity.
+</p>
 
 <div align="center">
   <img src="https://static.myfigurecollection.net/upload/pictures/2024/07/01/4051644.gif" width="100" />          
