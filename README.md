@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://i.pinimg.com/originals/05/bf/b1/05bfb13dbad7c8f3815c723d4c0c34be.gif" width="35" /> Lunalize (P)</div>
+# <div align="center"><img src="https://i.pinimg.com/originals/05/bf/b1/05bfb13dbad7c8f3815c723d4c0c34be.gif" width="50" /> Lunalize (P)</div>
 
 <p align="center">
   Just an ordinary guy interested in Software Engineering and Cybersecurity.
