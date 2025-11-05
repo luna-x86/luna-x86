@@ -3,6 +3,7 @@
 Just an ordinary guy interested in Software Engineering and Cybersecurity.
 
 <div>
+  <br>
   <img src="https://static.myfigurecollection.net/upload/pictures/2024/07/01/4051644.gif" />
 
   <a align="top" href="https://skillicons.dev">
